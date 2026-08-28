@@ -1,3 +1,4 @@
+<img width="1840" height="854" alt="초기 화면_이전 대화" src="https://github.com/user-attachments/assets/f0d46e8c-e9f4-43f1-abe8-d5ace8a442d1" />
 # 에이닷 Web 분석
 
 - **서비스명:** 에이닷 Web
@@ -87,10 +88,11 @@
 ## 초기 화면
 <img width="1774" height="887" alt="초기 화면" src="https://github.com/user-attachments/assets/28aa1cdc-c39b-4476-8b88-13a19f0af7d8" />
 
-## 초기 화면-모델 선택
+## 초기 화면 -모델 선택
 <img width="1659" height="948" alt="모델 선택" src="https://github.com/user-attachments/assets/d91388db-e0aa-47fd-aeef-8a2547c22382" />
 
 ## 초기 화면 -이전 대화 존재
+<img width="1840" height="854" alt="초기 화면_이전 대화" src="https://github.com/user-attachments/assets/93e1d31e-199c-4226-b164-097b01f135c9" />
 
 ## 검색 화면 -로딩 중
 <img width="1672" height="941" alt="답변 생성 로딩중" src="https://github.com/user-attachments/assets/728d7077-70b0-435b-893f-b817ae1b0b24" />
@@ -98,4 +100,9 @@
 ## 검색 화면 -답변 완료
 <img width="941" height="1672" alt="답변 완료" src="https://github.com/user-attachments/assets/8a49d33e-47d0-4363-b961-9a4c6e9ab1de" />
 
+## 다른 AI 답변 비교 -모델 선택
+<img width="1706" height="922" alt="답변 완료-모델생성" src="https://github.com/user-attachments/assets/87281755-a33a-4b34-afb6-bf2de0cabf61" />
+
+## 최근 기록
+<img width="1632" height="964" alt="최근기록" src="https://github.com/user-attachments/assets/625aac8b-67ae-4b94-9d00-9f6c874849eb" />
 
