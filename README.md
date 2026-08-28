@@ -92,5 +92,10 @@
 
 ## 초기 화면 -이전 대화 존재
 
+## 검색 화면 -로딩 중
+<img width="1672" height="941" alt="답변 생성 로딩중" src="https://github.com/user-attachments/assets/728d7077-70b0-435b-893f-b817ae1b0b24" />
+
+## 검색 화면 -답변 완료
+<img width="941" height="1672" alt="답변 완료" src="https://github.com/user-attachments/assets/8a49d33e-47d0-4363-b961-9a4c6e9ab1de" />
 
 
