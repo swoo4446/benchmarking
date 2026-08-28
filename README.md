@@ -1,4 +1,3 @@
-<img width="1840" height="854" alt="초기 화면_이전 대화" src="https://github.com/user-attachments/assets/f0d46e8c-e9f4-43f1-abe8-d5ace8a442d1" />
 # 에이닷 Web 분석
 
 - **서비스명:** 에이닷 Web
