@@ -105,3 +105,10 @@
 ## 최근 기록
 <img width="1632" height="964" alt="최근기록" src="https://github.com/user-attachments/assets/625aac8b-67ae-4b94-9d00-9f6c874849eb" />
 
+<img width="1672" height="941" alt="최근 기록 -편집" src="https://github.com/user-attachments/assets/b085f1f3-1a24-4068-8f8f-b868c6ee79db" />
+
+## 대화 고정/이름 변경/삭제
+<img width="1672" height="941" alt="2" src="https://github.com/user-attachments/assets/64af852b-2b52-4c32-a7bd-d4750a324ca8" />
+<img width="1672" height="941" alt="1" src="https://github.com/user-attachments/assets/1bcb249a-532c-4e2d-8334-e88abbca19af" />
+<img width="1811" height="868" alt="3" src="https://github.com/user-attachments/assets/f4ba9444-59de-43fd-9c92-10c28709d321" />
+
