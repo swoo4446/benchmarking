@@ -82,5 +82,5 @@
 이미 입력한 질문을 수정하여 동일한 대화 내에서 새로운 검색 결과를 확인하는 흐름이다.
 
 ### User Flow
-<img width="1448" height="1086" alt="case5" src="https://github.com/user-attachments/assets/16d0b637-2e5b-478f-a3ac-e4b5519b0ff8" />
+<img width="1149" height="1369" alt="case5" src="https://github.com/user-attachments/assets/246e02fc-07b0-4977-87e2-47ccd7234f22" />
 ---
