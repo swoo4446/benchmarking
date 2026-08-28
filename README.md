@@ -81,3 +81,16 @@
 ### User Flow
 <img width="1149" height="1369" alt="case5" src="https://github.com/user-attachments/assets/246e02fc-07b0-4977-87e2-47ccd7234f22" />
 ---
+
+# 3. WireFrame
+
+## 초기 화면
+<img width="1774" height="887" alt="초기 화면" src="https://github.com/user-attachments/assets/28aa1cdc-c39b-4476-8b88-13a19f0af7d8" />
+
+## 초기 화면-모델 선택
+<img width="1659" height="948" alt="모델 선택" src="https://github.com/user-attachments/assets/d91388db-e0aa-47fd-aeef-8a2547c22382" />
+
+## 초기 화면 -이전 대화 존재
+
+
+
