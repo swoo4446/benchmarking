@@ -52,8 +52,7 @@
 검색 결과를 확인한 이후 다른 AI 모델의 답변을 비교하거나 추천 질문·후속 질문을 이용해 대화를 이어가는 흐름이다.
 
 ### User Flow
-<img width="1536" height="1024" alt="case2" src="https://github.com/user-attachments/assets/83e68c30-72d8-4fae-a356-bd13c5f47425" />
----
+<img width="1536" height="1024" alt="Case2 수정" src="https://github.com/user-attachments/assets/24425d36-9b80-4a63-b2e5-b05e9d53355d" />
 
 ## Case 3. 이전 대화 이어하기
 
